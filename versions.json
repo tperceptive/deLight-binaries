@@ -45,6 +45,15 @@
 				"releaseDate":	"26-05-20 19:17 UTC -4:00",
 				"url":	"https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/transition_esp_idf_v_4.2_20.05.4.bin",
 				"checksum":	"4294757077"
+			}, {
+				"name":	"transition_esp_idf_v_4.2_20.05.5.bin",
+				"type":	"LSD",
+				"majorVer":	"20",
+				"minorVer":	"05",
+				"patchVer":	"5",
+				"releaseDate":	"26-05-20 20:09 UTC -4:00",
+				"url":	"https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/transition_esp_idf_v_4.2_20.05.5.bin",
+				"checksum":	"4294724177"
 			}]
 	}
 }
