@@ -193,5 +193,17 @@
 				"url":	"https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/Probando_NVS_autogenerado_20.06.0.bin",
 				"checksum":	"4294202421"
 			}]
+	},
+	"Music_Patterns":	{
+		"versions":	[{
+				"name":	"Music_Patterns_20.06.0.bin",
+				"type":	"LSD",
+				"majorVer":	"20",
+				"minorVer":	"06",
+				"patchVer":	"0",
+				"releaseDate":	"25-06-20 13:51 UTC -4:00",
+				"url":	"https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/Music_Patterns_20.06.0.bin",
+				"checksum":	"4294758025"
+			}]
 	}
 }
