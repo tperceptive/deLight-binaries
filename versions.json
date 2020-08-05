@@ -330,6 +330,15 @@
 				"releaseDate":	"04-08-20 12:23 UTC -4:00",
 				"url":	"https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/Music_Patterns_20.08.0.bin",
 				"checksum":	"4294200897"
+			}, {
+				"name":	"Music_Patterns_20.08.1.bin",
+				"type":	"LSD",
+				"majorVer":	"20",
+				"minorVer":	"08",
+				"patchVer":	"1",
+				"releaseDate":	"05-08-20 18:40 UTC -4:00",
+				"url":	"https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/Music_Patterns_20.08.1.bin",
+				"checksum":	"4294157658"
 			}]
 	}
 }
