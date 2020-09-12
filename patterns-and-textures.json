@@ -38,7 +38,7 @@
             "duration":true
         },
         {
-            "name":"Slow Steps",
+            "name":"Snail",
             "commId":7,
             "duration":true
         },
@@ -55,6 +55,17 @@
         {
             "name":"Stack",
             "commId":10,
+            "duration":true,
+            "direction":true
+        },
+        {
+            "name":"Glow",
+            "commId":11,
+            "duration":true
+        },
+        {
+            "name":"Laser Pulse",
+            "commId":12,
             "duration":true,
             "direction":true
         }
