@@ -70,7 +70,7 @@
             "duration":true,
             "direction":true
         },
-                {
+        {
             "name":"Fireworks",
             "commId":13,
             "duration":true
