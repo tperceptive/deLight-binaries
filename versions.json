@@ -897,6 +897,15 @@
 				"releaseDate":	"14-09-20 19:58 UTC -4:00",
 				"url":	"https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/Music_Patterns_20.09.49.bin",
 				"checksum":	"4294147286"
+			}, {
+				"name":	"Music_Patterns_20.09.50.bin",
+				"type":	"LSD",
+				"majorVer":	"20",
+				"minorVer":	"09",
+				"patchVer":	"50",
+				"releaseDate":	"16-09-20 09:02 UTC -4:00",
+				"url":	"https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/Music_Patterns_20.09.50.bin",
+				"checksum":	"4294147286"
 			}]
 	}
 }
