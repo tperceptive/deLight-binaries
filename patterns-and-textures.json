@@ -61,7 +61,7 @@
         {
             "name":"Glow",
             "commId":11,
-            "duration":true
+            "duration":true,
             "direction":true
         },
         {
