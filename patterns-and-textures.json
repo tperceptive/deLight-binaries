@@ -65,19 +65,25 @@
             "direction":true
         },
         {
-            "name":"Laser Pulse",
+            "name":"Color Glow",
             "commId":12,
             "duration":true,
             "direction":true
         },
         {
-            "name":"Fireworks",
+            "name":"Laser Pulse",
             "commId":13,
+            "duration":true,
+            "direction":true
+        },
+        {
+            "name":"Fireworks",
+            "commId":14,
             "duration":true
         },
         {
             "name":"Dripping Stalactite",
-            "commId":14,
+            "commId":15,
             "duration":true
         }
     ],
