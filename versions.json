@@ -1276,6 +1276,16 @@
         "releaseDate": "Tue, 10 Nov 2020 01:12:43 GMT",
         "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/Upgrade_Music-20.10.1.bin",
         "checksum": "264bab88c7e3545d44f287b767cadb35525e9deb0fa362b2b7c801b4960588b7"
+      },
+      {
+        "name": "Upgrade_Music-20.10.2.bin",
+        "type": "LSD",
+        "majorVer": 20,
+        "minorVer": 10,
+        "patchVer": 2,
+        "releaseDate": "Tue, 10 Nov 2020 01:25:38 GMT",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/Upgrade_Music-20.10.2.bin",
+        "checksum": "264bab88c7e3545d44f287b767cadb35525e9deb0fa362b2b7c801b4960588b7"
       }
     ]
   }
