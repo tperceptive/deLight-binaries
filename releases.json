@@ -70,6 +70,16 @@
         "releaseDate": "Wed, 25 Nov 2020 16:59:41 GMT",
         "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release/perceptive_LSD-1.4.2.bin",
         "checksum": "b1ea27c0609cbe0e96dd5b112b8e465080be7cfcd14b1a2d85befadf6ba3517a"
+      },
+      {
+        "name": "perceptive_LSD-1.4.3.bin",
+        "type": "LSD",
+        "majorVer": 1,
+        "minorVer": 4,
+        "patchVer": 3,
+        "releaseDate": "Wed, 25 Nov 2020 17:23:01 GMT",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release/perceptive_LSD-1.4.3.bin",
+        "checksum": "b31c7d96d8d5476c950198528e25efea3aa2668375be8a0adb92656b5573f252"
       }
     ]
   }
