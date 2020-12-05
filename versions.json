@@ -1354,6 +1354,16 @@
         "releaseDate": "Fri, 27 Nov 2020 01:46:53 GMT",
         "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/WIFI_UPGRADE-20.10.0.bin",
         "checksum": "59dc33f0ec7d5b5eb231000b6e33913772e84963ab517ae24fec4420da870c06"
+      },
+      {
+        "name": "WIFI_UPGRADE-20.11.0.bin",
+        "type": "LSD",
+        "majorVer": 20,
+        "minorVer": 11,
+        "patchVer": 0,
+        "releaseDate": "Sat, 05 Dec 2020 22:32:53 GMT",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/WIFI_UPGRADE-20.11.0.bin",
+        "checksum": "638a92a5ee244c4b9e1777a1899aaea8b6a7118e76f2e3e14ddef0648fd83b16"
       }
     ]
   }
