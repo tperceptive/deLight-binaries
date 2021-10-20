@@ -1407,4 +1407,18 @@
       }
     ]
   },
+  "code_refactor": {
+    "versions": [
+      {
+        "name": "code_refactor-21.9.0.bin",
+        "type": "LSD",
+        "majorVer": 21,
+        "minorVer": 9,
+        "patchVer": 0,
+        "releaseDate": "Fri, 15 Oct 2021 14:24:21 GMT",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/code_refactor-21.9.0.bin",
+        "checksum": "537603a947f68f158b2626956606df6511d8632d670ce9dd76744e05f68eaa47"
+      }
+    ]
+  }
 }
