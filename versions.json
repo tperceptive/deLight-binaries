@@ -188,6 +188,16 @@
         "releaseDate": "Wed, 26 Jan 2022 15:06:40 GMT",
         "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/NO-Global_pointer-22.0.0.bin",
         "checksum": "24a6ee8609dba1424ce5152d98bd2ff86a6e811affd56455e1d90432dcdb7bf5"
+      },
+      {
+        "name": "NO-Global_pointer-22.0.1.bin",
+        "type": "LSD",
+        "majorVer": 22,
+        "minorVer": 0,
+        "patchVer": 1,
+        "releaseDate": "Wed, 26 Jan 2022 15:51:33 GMT",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/NO-Global_pointer-22.0.1.bin",
+        "checksum": "6fd525f5a3574bfc1c52d206205e1aa8a278f9e36ef724e5d761083f930a0cea"
       }
     ]
   }
