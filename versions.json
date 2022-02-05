@@ -224,5 +224,19 @@
         "checksum": "08597906e18867731144f793ef62528ccf14bb9b86f5d1b69dc8b43444c1ef3b"
       }
     ]
+  },
+  "feature/rotation_list": {
+    "versions": [
+      {
+        "name": "feature/rotation_list-22.1.0.bin",
+        "type": "LSD",
+        "majorVer": 22,
+        "minorVer": 1,
+        "patchVer": 0,
+        "releaseDate": "Sat, 05 Feb 2022 21:24:08 GMT",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/feature/rotation_list-22.1.0.bin",
+        "checksum": "2880bfc60b1e91d9b7e39db60eba56251ce93bf6a79336fcb033a8afda828bd5"
+      }
+    ]
   }
 }
