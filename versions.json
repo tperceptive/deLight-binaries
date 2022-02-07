@@ -48,6 +48,15 @@
 				"releaseDate":	"07-02-22 12:55 UTC -4:00",
 				"url":	"https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/rotation_list_22.02.3.bin",
 				"checksum":	"4294584856"
+			}, {
+				"name":	"rotation_list_22.02.4.bin",
+				"type":	"LSD",
+				"majorVer":	"22",
+				"minorVer":	"02",
+				"patchVer":	"4",
+				"releaseDate":	"07-02-22 19:55 UTC -4:00",
+				"url":	"https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/rotation_list_22.02.4.bin",
+				"checksum":	"4294585233"
 			}]
 	}
 }
