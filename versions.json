@@ -168,6 +168,16 @@
         "releaseDate": "Sat, 21 May 2022 13:31:47 GMT",
         "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/tri_gest-22.4.2.bin",
         "checksum": "a138152eb977d50b3ff98135d92ade13a1a49b9ee88617afaeb29457ad9536ac"
+      },
+      {
+        "name": "tri_gest-22.4.3.bin",
+        "type": "LSD",
+        "majorVer": 22,
+        "minorVer": 4,
+        "patchVer": 3,
+        "releaseDate": "Sat, 21 May 2022 13:32:38 GMT",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/tri_gest-22.4.3.bin",
+        "checksum": "641bfd6c6f8f78585e5a79bfd3716b120eebf2815aa0f674feb440a0fd9d4255"
       }
     ]
   }
