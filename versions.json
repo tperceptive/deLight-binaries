@@ -212,6 +212,16 @@
         "releaseDate": "Tue, 31 May 2022 20:50:37 GMT",
         "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/lop_module-22.4.2.bin",
         "checksum": "00c699e20c5ae9bf48463e2a6095c9d2f39a25aa5db4921707a1cf6862d7e12a"
+      },
+      {
+        "name": "lop_module-22.4.3.bin",
+        "type": "LSD",
+        "majorVer": 22,
+        "minorVer": 4,
+        "patchVer": 3,
+        "releaseDate": "Tue, 31 May 2022 20:52:27 GMT",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/lop_module-22.4.3.bin",
+        "checksum": "00c699e20c5ae9bf48463e2a6095c9d2f39a25aa5db4921707a1cf6862d7e12a"
       }
     ]
   }
