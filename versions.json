@@ -52,5 +52,19 @@
         "checksum": "4294508326"
       }
     ]
+  },
+  "tri_release": {
+    "versions": [
+      {
+        "name": "tri_release-22.6.0.bin",
+        "type": "LSD",
+        "majorVer": 22,
+        "minorVer": 6,
+        "patchVer": 0,
+        "releaseDate": "Thu, 07 Jul 2022 14:50:38 GMT",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/tri_release-22.6.0.bin",
+        "checksum": "f3095b4ab46d143362d98946411f9d9447048967c3cecd13da5c5dcd3fabfc77"
+      }
+    ]
   }
 }
