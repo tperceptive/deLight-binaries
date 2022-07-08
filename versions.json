@@ -1,70 +1,14 @@
 {
-  "release": {
-    "versions": [
-      {
-        "name": "release_22.02.0.bin",
-        "type": "LSD",
-        "majorVer": "22",
-        "minorVer": "02",
-        "patchVer": "0",
-        "releaseDate": "07-02-22 11:39 UTC -4:00",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release_22.02.0.bin",
-        "checksum": "376498"
-      },
-      {
-        "name": "release_22.02.5.bin",
-        "type": "LSD",
-        "majorVer": "22",
-        "minorVer": "02",
-        "patchVer": "5",
-        "releaseDate": "10-02-22 11:12 UTC -4:00",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release_22.02.5.bin",
-        "checksum": "114660"
-      },
-      {
-        "name": "release_22.02.6.bin",
-        "type": "LSD",
-        "majorVer": "22",
-        "minorVer": "02",
-        "patchVer": "6",
-        "releaseDate": "10-02-22 22:32 UTC -4:00",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release_22.02.6.bin",
-        "checksum": "117398"
-      },
-      {
-        "name": "release_22.04.3.bin",
-        "type": "LSD",
-        "majorVer": "22",
-        "minorVer": "04",
-        "patchVer": "3",
-        "releaseDate": "24-04-22 09:37 UTC -4:00",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release_22.04.3.bin",
-        "checksum": "4294508326"
-      },
-      {
-        "name": "release_22.04.4.bin",
-        "type": "LSD",
-        "majorVer": "22",
-        "minorVer": "04",
-        "patchVer": "4",
-        "releaseDate": "24-04-22 09:38 UTC -4:00",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release_22.04.4.bin",
-        "checksum": "4294508326"
-      }
-    ]
-  },
-  "tri_release": {
-    "versions": [
-      {
-        "name": "tri_release-22.6.0.bin",
-        "type": "LSD",
-        "majorVer": 22,
-        "minorVer": 6,
-        "patchVer": 0,
-        "releaseDate": "Thu, 07 Jul 2022 14:50:38 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/tri_release-22.6.0.bin",
-        "checksum": "f3095b4ab46d143362d98946411f9d9447048967c3cecd13da5c5dcd3fabfc77"
-      }
-    ]
-  }
+	"release":	{
+		"versions":	[{
+				"name":	"release_22.07.3.bin",
+				"type":	"LSD",
+				"majorVer":	"22",
+				"minorVer":	"07",
+				"patchVer":	"3",
+				"releaseDate":	"08-07-22 18:46 UTC -4:00",
+				"url":	"https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release_22.07.3.bin",
+				"checksum":	"314972"
+			}]
+	}
 }

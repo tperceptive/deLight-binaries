@@ -2,294 +2,68 @@
   "release": {
     "versions": [
       {
-        "name": "perceptive_LSD-1.2.2.bin",
+        "name": "release_22.02.0.bin",
         "type": "LSD",
-        "majorVer": 1,
-        "minorVer": 2,
-        "patchVer": 2,
-        "releaseDate": "Tue, 10 Nov 2020 01:48:02 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release/perceptive_LSD-1.2.2.bin",
-        "checksum": "f359ca0664daca2b4b99c1fdd90357c18be4f6828474f595a24f7dbb3a1801f0"
+        "majorVer": "22",
+        "minorVer": "02",
+        "patchVer": "0",
+        "releaseDate": "07-02-22 11:39 UTC -4:00",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release_22.02.0.bin",
+        "checksum": "376498"
       },
       {
-        "name": "perceptive_LSD-1.3.2.bin",
+        "name": "release_22.02.5.bin",
         "type": "LSD",
-        "majorVer": 1,
-        "minorVer": 3,
-        "patchVer": 2,
-        "releaseDate": "Sun, 15 Nov 2020 20:01:58 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release/perceptive_LSD-1.3.2.bin",
-        "checksum": "680cc40af6641c22235d12f08cbda6940098e052482bad984958833bc97d6a93"
+        "majorVer": "22",
+        "minorVer": "02",
+        "patchVer": "5",
+        "releaseDate": "10-02-22 11:12 UTC -4:00",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release_22.02.5.bin",
+        "checksum": "114660"
       },
       {
-        "name": "perceptive_LSD-1.4.1.bin",
+        "name": "release_22.02.6.bin",
         "type": "LSD",
-        "majorVer": 1,
-        "minorVer": 4,
-        "patchVer": 1,
-        "releaseDate": "Wed, 25 Nov 2020 16:54:27 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release/perceptive_LSD-1.4.1.bin",
-        "checksum": "f18dded6a1bc323727dc2a628e31cf3b8ba81d0c050ecb810ce17c7ea18a9b22"
+        "majorVer": "22",
+        "minorVer": "02",
+        "patchVer": "6",
+        "releaseDate": "10-02-22 22:32 UTC -4:00",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release_22.02.6.bin",
+        "checksum": "117398"
       },
       {
-        "name": "perceptive_LSD-1.4.2.bin",
+        "name": "release_22.04.3.bin",
         "type": "LSD",
-        "majorVer": 1,
-        "minorVer": 4,
-        "patchVer": 2,
-        "releaseDate": "Wed, 25 Nov 2020 16:59:41 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release/perceptive_LSD-1.4.2.bin",
-        "checksum": "b1ea27c0609cbe0e96dd5b112b8e465080be7cfcd14b1a2d85befadf6ba3517a"
+        "majorVer": "22",
+        "minorVer": "04",
+        "patchVer": "3",
+        "releaseDate": "24-04-22 09:37 UTC -4:00",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release_22.04.3.bin",
+        "checksum": "4294508326"
       },
       {
-        "name": "perceptive_LSD-1.4.3.bin",
+        "name": "release_22.04.4.bin",
         "type": "LSD",
-        "majorVer": 1,
-        "minorVer": 4,
-        "patchVer": 3,
-        "releaseDate": "Wed, 25 Nov 2020 17:23:01 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release/perceptive_LSD-1.4.3.bin",
-        "checksum": "b31c7d96d8d5476c950198528e25efea3aa2668375be8a0adb92656b5573f252"
-      },
-      {
-        "name": "perceptive_LSD-1.4.4.bin",
-        "type": "LSD",
-        "majorVer": 1,
-        "minorVer": 4,
-        "patchVer": 4,
-        "releaseDate": "Tue, 08 Dec 2020 15:50:05 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release/perceptive_LSD-1.4.4.bin",
-        "checksum": "485c8823ff62375800eb42380aa18712572ed2b04fb566f6b5982a9ff93a92d8"
-      },
-      {
-        "name": "perceptive_LSD-1.4.5.bin",
-        "type": "LSD",
-        "majorVer": 1,
-        "minorVer": 4,
-        "patchVer": 5,
-        "releaseDate": "Mon, 18 Jan 2021 22:22:16 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release/perceptive_LSD-1.4.5.bin",
-        "checksum": "aaa9b8e71d73b6abca4d31bd5d45ff879792be90b98ca13a1dff05c798d82681"
-      },
-      {
-        "name": "perceptive_LSD-1.4.6.bin",
-        "type": "LSD",
-        "majorVer": 1,
-        "minorVer": 4,
-        "patchVer": 6,
-        "releaseDate": "Wed, 27 Jan 2021 02:15:07 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release/perceptive_LSD-1.4.6.bin",
-        "checksum": "8962260b8248422f66f4de2ed1db50e7e58fb1e5b123423a8c2dd03686d2c978"
-      },
-      {
-        "name": "perceptive_LSD-1.4.7.bin",
-        "type": "LSD",
-        "majorVer": 1,
-        "minorVer": 4,
-        "patchVer": 7,
-        "releaseDate": "Fri, 12 Feb 2021 19:09:14 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release/perceptive_LSD-1.4.7.bin",
-        "checksum": "1a513355a2e5f98061716de92f5c2cca845d370570226494867c2c8622075aa3"
+        "majorVer": "22",
+        "minorVer": "04",
+        "patchVer": "4",
+        "releaseDate": "24-04-22 09:38 UTC -4:00",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release_22.04.4.bin",
+        "checksum": "4294508326"
       }
     ]
   },
-  "code_refactor": {
+  "tri_release": {
     "versions": [
       {
-        "name": "code_refactor-21.9.0.bin",
+        "name": "tri_release-22.6.0.bin",
         "type": "LSD",
-        "majorVer": 21,
-        "minorVer": 9,
+        "majorVer": 22,
+        "minorVer": 6,
         "patchVer": 0,
-        "releaseDate": "Wed, 20 Oct 2021 02:30:23 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/code_refactor-21.9.0.bin",
-        "checksum": "b93f17a53c6d90ee8e42e4472eab5047094bfb525ca2e1679f0d84e0e1b9ad14"
-      },
-      {
-        "name": "code_refactor-21.9.1.bin",
-        "type": "LSD",
-        "majorVer": 21,
-        "minorVer": 9,
-        "patchVer": 1,
-        "releaseDate": "Wed, 20 Oct 2021 17:41:24 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/code_refactor-21.9.1.bin",
-        "checksum": "87fee5c76d692178bd4d5652a03f8d540334b95c74d6c070f9c17831ce3c3917"
-      },
-      {
-        "name": "code_refactor-21.9.2.bin",
-        "type": "LSD",
-        "majorVer": 21,
-        "minorVer": 9,
-        "patchVer": 2,
-        "releaseDate": "Wed, 20 Oct 2021 19:01:40 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/code_refactor-21.9.2.bin",
-        "checksum": "22adc8668bc628684265a47d5ad31c068131323c99b8e4b7a6a514403af05e45"
-      },
-      {
-        "name": "code_refactor-21.9.3.bin",
-        "type": "LSD",
-        "majorVer": 21,
-        "minorVer": 9,
-        "patchVer": 3,
-        "releaseDate": "Thu, 21 Oct 2021 16:10:30 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/code_refactor-21.9.3.bin",
-        "checksum": "6b0450b1fcc931bbd48b4bb0f372e31f341f19df0c4f77dd997a3f8fb371c5d7"
-      },
-      {
-        "name": "code_refactor-21.9.4.bin",
-        "type": "LSD",
-        "majorVer": 21,
-        "minorVer": 9,
-        "patchVer": 4,
-        "releaseDate": "Fri, 22 Oct 2021 18:05:46 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/code_refactor-21.9.4.bin",
-        "checksum": "150a93f1ecb39833be024c7f4fc144e2efb476f055feea0dcc186e515c8f66b9"
-      },
-      {
-        "name": "code_refactor-21.9.5.bin",
-        "type": "LSD",
-        "majorVer": 21,
-        "minorVer": 9,
-        "patchVer": 5,
-        "releaseDate": "Sat, 23 Oct 2021 02:13:28 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/code_refactor-21.9.5.bin",
-        "checksum": "d4cb97d8163d5ed9dc3cca05a39fe4b1f3b6444c60b9bc42cc9c04d281b39bb8"
-      },
-      {
-        "name": "code_refactor-21.9.6.bin",
-        "type": "LSD",
-        "majorVer": 21,
-        "minorVer": 9,
-        "patchVer": 6,
-        "releaseDate": "Sat, 23 Oct 2021 03:27:06 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/code_refactor-21.9.6.bin",
-        "checksum": "1675f38386a91d6bce74d0963220c4cac4ed08f93b04f21803906d9c2bdb9772"
-      },
-      {
-        "name": "code_refactor-21.9.7.bin",
-        "type": "LSD",
-        "majorVer": 21,
-        "minorVer": 9,
-        "patchVer": 7,
-        "releaseDate": "Sun, 24 Oct 2021 04:17:07 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/code_refactor-21.9.7.bin",
-        "checksum": "c3be4502134c3666f9b139922dc6ffd69b023e485544cb82f0edabf2dc0cfbc9"
-      }
-    ]
-  },
-  "NO-Global_pointer": {
-    "versions": [
-      {
-        "name": "NO-Global_pointer-22.0.0.bin",
-        "type": "LSD",
-        "majorVer": 22,
-        "minorVer": 0,
-        "patchVer": 0,
-        "releaseDate": "Wed, 26 Jan 2022 15:06:40 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/NO-Global_pointer-22.0.0.bin",
-        "checksum": "24a6ee8609dba1424ce5152d98bd2ff86a6e811affd56455e1d90432dcdb7bf5"
-      },
-      {
-        "name": "NO-Global_pointer-22.0.1.bin",
-        "type": "LSD",
-        "majorVer": 22,
-        "minorVer": 0,
-        "patchVer": 1,
-        "releaseDate": "Wed, 26 Jan 2022 15:51:33 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/NO-Global_pointer-22.0.1.bin",
-        "checksum": "6fd525f5a3574bfc1c52d206205e1aa8a278f9e36ef724e5d761083f930a0cea"
-      },
-      {
-        "name": "NO-Global_pointer-22.1.0.bin",
-        "type": "LSD",
-        "majorVer": 22,
-        "minorVer": 1,
-        "patchVer": 0,
-        "releaseDate": "Mon, 07 Feb 2022 03:11:08 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/NO-Global_pointer-22.1.0.bin",
-        "checksum": "f46c4b7eef133c1a49c98d4570687df71862392b6ede0f6e1e7549af3881b4bd"
-      }
-    ]
-  },
-  "main": {
-    "versions": [
-      {
-        "name": "main-22.1.0.bin",
-        "type": "LSD",
-        "majorVer": 22,
-        "minorVer": 1,
-        "patchVer": 0,
-        "releaseDate": "Sat, 05 Feb 2022 16:04:15 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/main-22.1.0.bin",
-        "checksum": "08597906e18867731144f793ef62528ccf14bb9b86f5d1b69dc8b43444c1ef3b"
-      },
-      {
-        "name": "main-22.1.1.bin",
-        "type": "LSD",
-        "majorVer": 22,
-        "minorVer": 1,
-        "patchVer": 1,
-        "releaseDate": "Sat, 05 Feb 2022 16:05:56 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/main-22.1.1.bin",
-        "checksum": "08597906e18867731144f793ef62528ccf14bb9b86f5d1b69dc8b43444c1ef3b"
-      }
-    ]
-  },
-  "feature/rotation_list": {
-    "versions": [
-      {
-        "name": "feature/rotation_list-22.1.0.bin",
-        "type": "LSD",
-        "majorVer": 22,
-        "minorVer": 1,
-        "patchVer": 0,
-        "releaseDate": "Sat, 05 Feb 2022 21:24:08 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/feature/rotation_list-22.1.0.bin",
-        "checksum": "2880bfc60b1e91d9b7e39db60eba56251ce93bf6a79336fcb033a8afda828bd5"
-      },
-      {
-        "name": "feature/rotation_list-22.1.1.bin",
-        "type": "LSD",
-        "majorVer": 22,
-        "minorVer": 1,
-        "patchVer": 1,
-        "releaseDate": "Sat, 05 Feb 2022 21:39:49 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/feature/rotation_list-22.1.1.bin",
-        "checksum": "2880bfc60b1e91d9b7e39db60eba56251ce93bf6a79336fcb033a8afda828bd5"
-      },
-      {
-        "name": "feature/rotation_list-22.1.2.bin",
-        "type": "LSD",
-        "majorVer": 22,
-        "minorVer": 1,
-        "patchVer": 2,
-        "releaseDate": "Mon, 07 Feb 2022 14:58:13 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/feature/rotation_list-22.1.2.bin",
-        "checksum": "2880bfc60b1e91d9b7e39db60eba56251ce93bf6a79336fcb033a8afda828bd5"
-      },
-      {
-        "name": "feature/rotation_list-22.1.3.bin",
-        "type": "LSD",
-        "majorVer": 22,
-        "minorVer": 1,
-        "patchVer": 3,
-        "releaseDate": "Mon, 07 Feb 2022 15:00:52 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/feature/rotation_list-22.1.3.bin",
-        "checksum": "2880bfc60b1e91d9b7e39db60eba56251ce93bf6a79336fcb033a8afda828bd5"
-      }
-    ]
-  },
-  "rotation_list": {
-    "versions": [
-      {
-        "name": "rotation_list-22.1.0.bin",
-        "type": "LSD",
-        "majorVer": 22,
-        "minorVer": 1,
-        "patchVer": 0,
-        "releaseDate": "Mon, 07 Feb 2022 15:38:11 GMT",
-        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/rotation_list-22.1.0.bin",
-        "checksum": "2880bfc60b1e91d9b7e39db60eba56251ce93bf6a79336fcb033a8afda828bd5"
+        "releaseDate": "Thu, 07 Jul 2022 14:50:38 GMT",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/tri_release-22.6.0.bin",
+        "checksum": "f3095b4ab46d143362d98946411f9d9447048967c3cecd13da5c5dcd3fabfc77"
       }
     ]
   }
