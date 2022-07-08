@@ -9,6 +9,15 @@
 				"releaseDate":	"08-07-22 18:46 UTC -4:00",
 				"url":	"https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release_22.07.3.bin",
 				"checksum":	"314972"
+			}, {
+				"name":	"release_22.07.4.bin",
+				"type":	"LSD",
+				"majorVer":	"22",
+				"minorVer":	"07",
+				"patchVer":	"4",
+				"releaseDate":	"08-07-22 18:50 UTC -4:00",
+				"url":	"https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/release_22.07.4.bin",
+				"checksum":	"314972"
 			}]
 	}
 }
