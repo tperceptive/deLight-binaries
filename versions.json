@@ -10,6 +10,16 @@
         "releaseDate": "Mon, 11 Jul 2022 00:18:40 GMT",
         "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/tri_release-22.6.0.bin",
         "checksum": "3bd27287da204644e337fd5d0f93c0b4d4963b0f61950d0a84220c84d25cd05e"
+      },
+      {
+        "name": "tri_release-22.6.1.bin",
+        "type": "LSD",
+        "majorVer": 22,
+        "minorVer": 6,
+        "patchVer": 1,
+        "releaseDate": "Mon, 11 Jul 2022 01:18:53 GMT",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/tri_release-22.6.1.bin",
+        "checksum": "91dd9d467767c37d74ee53262a0b0cc46fedaf2287587afe5af6515102d47351"
       }
     ]
   }
