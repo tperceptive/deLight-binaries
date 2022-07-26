@@ -122,6 +122,16 @@
         "releaseDate": "Sat, 23 Jul 2022 17:22:23 GMT",
         "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/lsd_release-22.6.3.bin",
         "checksum": "4b32a9b06a386dd660988532d4b5c492ae4435bfac7a8122a9c7a87e749fffef"
+      },
+      {
+        "name": "lsd_release-22.6.4.bin",
+        "type": "LSD",
+        "majorVer": 22,
+        "minorVer": 6,
+        "patchVer": 4,
+        "releaseDate": "Tue, 26 Jul 2022 04:25:27 GMT",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/lsd_release-22.6.4.bin",
+        "checksum": "a54586f8d96a26dcf534ac8e84d7de66b140374a03572ef100ab9628688a4f5d"
       }
     ]
   },
