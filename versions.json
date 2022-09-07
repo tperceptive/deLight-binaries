@@ -258,5 +258,19 @@
         "checksum": "fe360472452471be62956713400d4f8f8f94804cced24279e912813a652cbde2"
       }
     ]
+  },
+  "aud_release": {
+    "versions": [
+      {
+        "name": "aud_release-22.8.0.bin",
+        "type": "LSD",
+        "majorVer": 22,
+        "minorVer": 8,
+        "patchVer": 0,
+        "releaseDate": "Wed, 07 Sep 2022 22:04:59 GMT",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/aud_release-22.8.0.bin",
+        "checksum": "a2d288f95e2b98955c23b8b14af12ca95b85e4de93e3d8da761418447a9581ea"
+      }
+    ]
   }
 }
