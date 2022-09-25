@@ -276,6 +276,17 @@
         "releaseDate": "Mon, 12 Sep 2022 12:38:54 GMT",
         "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/v1_dev-22.8.2.bin",
         "checksum": "c60ece9e4104a7e4d50cea6bc080fd77287d4e374155079f1f8a2804f9cef4bb"
+      },
+      {
+        "name": "v1_dev-1.7.8",
+        "type": "LSD",
+        "description": "test mm 12\r\n",
+        "majorVer": 1,
+        "minorVer": 7,
+        "patchVer": 8,
+        "releaseDate": "2022-09-25T01:21:58.080Z",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/v1_dev-1.7.8",
+        "checksum": "cb7ebd9dd2bb7f70589605a1dd29c5908db32d82a3b31ccacb52a9878af16071"
       }
     ]
   },
