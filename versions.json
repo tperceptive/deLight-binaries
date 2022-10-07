@@ -116,6 +116,17 @@
         "releaseDate": "2022-10-07T15:00:02.473Z",
         "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/tri_release-2.1.5",
         "checksum": "2bcedd02b8ebb85c44d68b2e72444ba4c2b0c13074756c398245cc63e8198b41"
+      },
+      {
+        "name": "tri_release-2.1.5",
+        "type": "LSD",
+        "description": "WIFI AP SSID DYNAMIC 2",
+        "majorVer": 2,
+        "minorVer": 1,
+        "patchVer": 5,
+        "releaseDate": "2022-10-07T16:04:28.775Z",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/tri_release-2.1.5",
+        "checksum": "ac819716c1d0defd58677d897157fb99afd9bf9d0c6fe1413223b11db508f703"
       }
     ]
   },
