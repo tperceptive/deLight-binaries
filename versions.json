@@ -434,6 +434,17 @@
         "releaseDate": "Fri, 07 Oct 2022 16:54:18 GMT",
         "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/v2_dev-22.9.0.bin",
         "checksum": "7ba1bb4f666e7579536fcbb779b06af78858486b27e684758ed7232d8efd19a6"
+      },
+      {
+        "name": "v2_dev-2.1.6",
+        "type": "LSD",
+        "description": "silent reboot\r\n",
+        "majorVer": 2,
+        "minorVer": 1,
+        "patchVer": 6,
+        "releaseDate": "2022-10-07T16:56:47.602Z",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/v2_dev-2.1.6",
+        "checksum": "7ba1bb4f666e7579536fcbb779b06af78858486b27e684758ed7232d8efd19a6"
       }
     ]
   }
