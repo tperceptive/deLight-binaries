@@ -478,6 +478,17 @@
         "releaseDate": "2022-10-07T21:21:20.236Z",
         "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/v2_dev-2.1.7",
         "checksum": "f9cd0cdc357e932fe3050484ff416b469acdbea204b02193662193d9a09445e5"
+      },
+      {
+        "name": "v2_dev-2.1.8",
+        "type": "LSD",
+        "description": "LOP Small logic fix\r\n",
+        "majorVer": 2,
+        "minorVer": 1,
+        "patchVer": 8,
+        "releaseDate": "2022-10-07T22:50:46.882Z",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/v2_dev-2.1.8",
+        "checksum": "681fae3e0a7e2a398c6641cb3c3127122ed06e0a9fc858c5f4e493a8a10351e1"
       }
     ]
   }
