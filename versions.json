@@ -83,6 +83,17 @@
         "releaseDate": "2022-10-07T03:31:53.627Z",
         "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/tri_release-2.1.3",
         "checksum": "5154cecf23d060c0a43817030a3dd11a18c0bd639e55e13c482f42e08a0fe73e"
+      },
+      {
+        "name": "tri_release-2.1.3",
+        "type": "LSD",
+        "description": "ADDED TOOGLE LOP FOR LATCH 2",
+        "majorVer": 2,
+        "minorVer": 1,
+        "patchVer": 3,
+        "releaseDate": "2022-10-07T03:35:28.730Z",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/tri_release-2.1.3",
+        "checksum": "802bfa7f12a6489c9573f940a48dd58f4d5596318d8c81c9931c90559e0e90ea"
       }
     ]
   },
