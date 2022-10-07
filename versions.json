@@ -138,6 +138,17 @@
         "releaseDate": "2022-10-07T16:24:35.016Z",
         "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/tri_release-2.1.5",
         "checksum": "9fc7fe0e080ce72195282c965603ad1aa08f1135b3cce9467f9bad3681b0648d"
+      },
+      {
+        "name": "tri_release-2.1.6",
+        "type": "LSD",
+        "description": "Better PRINT",
+        "majorVer": 2,
+        "minorVer": 1,
+        "patchVer": 6,
+        "releaseDate": "2022-10-07T16:31:57.982Z",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/tri_release-2.1.6",
+        "checksum": "30bf9a67f7c0d48730f2fcecec6668fd0b2e0dd2fe65fa1664fa3b90b049b08d"
       }
     ]
   },
