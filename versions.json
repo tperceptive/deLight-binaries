@@ -407,6 +407,17 @@
         "releaseDate": "2022-10-07T22:21:58.915Z",
         "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/v1_dev-1.7.8",
         "checksum": "3522501fbe8eec1b982119e0446545186ff51e9245c7dd262b97a77f2e1e17ea"
+      },
+      {
+        "name": "v1_dev-1.7.9",
+        "type": "LSD",
+        "description": "Action UNDO FIX 2\r\n",
+        "majorVer": 1,
+        "minorVer": 7,
+        "patchVer": 9,
+        "releaseDate": "2022-10-07T22:26:20.736Z",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/v1_dev-1.7.9",
+        "checksum": "120e0f0edb8879f4f2b66f4cee8d70449639acb703c4fc1f2638163587690852"
       }
     ]
   },
