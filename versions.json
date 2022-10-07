@@ -61,6 +61,17 @@
         "releaseDate": "2022-10-07T02:24:22.210Z",
         "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/tri_release-2.1.1",
         "checksum": "ac6d595e7affe5f0aa48fc0ed3059417a023c3ec2993ebb87be92f4068e8f101"
+      },
+      {
+        "name": "tri_release-2.1.2",
+        "type": "LSD",
+        "description": "LOP ID fix",
+        "majorVer": 2,
+        "minorVer": 1,
+        "patchVer": 2,
+        "releaseDate": "2022-10-07T02:45:56.431Z",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/tri_release-2.1.2",
+        "checksum": "d0cc255299e8dfa26c31da04d01c72e038a6ec8bc1e97a557a0d59c489f16c3a"
       }
     ]
   },
