@@ -445,6 +445,17 @@
         "releaseDate": "2022-10-07T16:56:47.602Z",
         "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/v2_dev-2.1.6",
         "checksum": "7ba1bb4f666e7579536fcbb779b06af78858486b27e684758ed7232d8efd19a6"
+      },
+      {
+        "name": "v2_dev-2.1.7",
+        "type": "LSD",
+        "description": "LOP DISARM LOGIC BUG FIX",
+        "majorVer": 2,
+        "minorVer": 1,
+        "patchVer": 7,
+        "releaseDate": "2022-10-07T21:21:20.236Z",
+        "url": "https://github.com/tperceptive/deLight-binaries/raw/ota-binaries/development/v2_dev-2.1.7",
+        "checksum": "f9cd0cdc357e932fe3050484ff416b469acdbea204b02193662193d9a09445e5"
       }
     ]
   }
